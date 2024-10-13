@@ -1,0 +1,123 @@
+#!/bin/bash
+
+tmux new-session -d -s mysession
+
+
+tmux split-window -v
+
+tmux select-pane -t 0
+tmux send-keys 'cd a && python b.py' C-m
+
+tmux select-pane -t 1
+tmux send-keys 'cd TONxDAO && python bot.py' C-m
+
+tmux new-session -d -s mysession2
+tmux split-window -v
+
+
+tmux select-pane -t 0
+tmux split-window -h
+
+
+tmux select-pane -t 0
+tmux send-keys 'cd blumtod && python bot.py' C-m
+tmux send-keys '7' C-m
+
+ 
+tmux select-pane -t 1
+tmux send-keys 'cd Matchquest && python bot.py' C-m
+tmux send-keys '5' C-m
+
+
+tmux select-pane -t 2
+tmux send-keys 'cd fintopioh && python Fintopio.py' C-m
+
+tmux split-window -h
+
+
+tmux select-pane -t 3
+tmux send-keys 'cd yescoin && python bot.py' C-m
+tmux send-keys 'y' C-m
+tmux send-keys 'n' C-m
+tmux send-keys 'n' C-m
+
+tmux new-session -d -s mysession3
+tmux split-window -v
+
+tmux select-pane -t 0
+tmux split-window -h
+
+tmux select-pane -t 0
+tmux send-keys 'cd Tomarket && python bot.py' C-m
+
+tmux select-pane -t 1
+tmux send-keys 'cd Cyberfinance && python bot.py' C-m
+
+
+tmux select-pane -t 2
+tmux send-keys 'cd Bump && python bot.py' C-m
+
+tmux split-window -h
+
+tmux select-pane -t 3
+tmux send-keys 'cd Xkucoin && python bot.py' C-m
+
+
+tmux new-session -d -s mysession4
+tmux split-window -v
+
+tmux select-pane -t 0
+tmux send-keys 'cd Birds && python bot.py' C-m
+
+tmux select-pane -t 1
+tmux send-keys 'cd snapster-bot && python main.py' C-m
+
+
+tmux split-window -h
+
+tmux send-keys 'cd Tabizoo && python bot.py' C-m
+
+tmux select-pane -t 0
+tmux split-window -h
+tmux send-keys 'cd COUBbot && python bot.py' C-m
+
+tmux new-session -d -s mysession5
+tmux send-keys 'cd majtod && python bot.py' C-m
+
+tmux send-keys '2' C-m
+
+tmux split-window -v
+
+tmux send-keys 'cd FastmintBOT && python bot.py' C-m
+tmux send-keys 'y' C-m
+tmux send-keys 'y' C-m
+
+tmux split-window -h
+tmux send-keys 'cd PinkTrade && python bot.py' C-m
+tmux send-keys 'y' C-m
+tmux send-keys 'y' C-m
+tmux send-keys '4' C-m
+
+tmux select-pane -t 0
+tmux split-window -h
+ 
+ tmux send-keys 'cd goats-bot && python main.py' C-m
+ 
+ tmux new-session -d -s mysession6
+ tmux send-keys 'cd nanonfish && python ikan.py' C-m
+
+tmux split-window -v
+tmux send-keys 'cd memefi-bot && python main.py' C-m
+
+tmux split-window -h
+tmux send-keys 'cd agent301-claimer && python bot.py' C-m
+tmux select-pane -t 0
+
+tmux split-window -h
+tmux send-keys 'cd pocketfitod && python bot.py' C-m
+
+tmux new-session -d -s mysession7
+tmux send-keys 'cd a && python t.py' C-m
+
+tmux attach-session -t mysession
+
