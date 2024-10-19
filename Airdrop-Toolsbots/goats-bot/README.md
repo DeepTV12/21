@@ -2,7 +2,6 @@
 
 GoatsBot is an automation script for completing missions, checking in, and spinning the slot machine on the Real Goats Bot Telegram. This script handles multiple accounts, automates login, mission completion, and daily check-ins.
 
-[TELEGRAM CHANNEL](https://t.me/Deeplchain) | [TWITTER](https://x.com/itsjaw_real)
 
 ## Register
 
@@ -119,5 +118,4 @@ UQBy7ICXV6qFGeFTRWSpnMtoH6agYF3PRa5nufcTr3GVOPri - TON
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-For questions or support, please contact [ https://t.me/DeeplChainSup ]
+
