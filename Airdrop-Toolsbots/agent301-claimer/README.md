@@ -1,13 +1,6 @@
 # Agent 301 - Auto Claim Bot
 
-🔗 **Referral Link**: [Agent 301](https://t.me/Agent301Bot/app?startapp=onetime5914982564)
 
-## 📢 Telegram Group
-
-Join our Telegram group to stay updated and get instructions on how to use this tool:
-
-- [Smart Airdrop](https://t.me/smartairdrop2120)
-- [Smart Airdrop - Channel](https://t.me/smartairdrop_channel)
 
 ## 🌟 Features
 
