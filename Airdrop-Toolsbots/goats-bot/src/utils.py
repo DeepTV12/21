@@ -16,18 +16,21 @@ htm = Fore.LIGHTBLACK_EX
 last_log_message = None
 
 def _banner():
-    banner = r"""
- ██╗████████╗███████╗     ██╗ █████╗ ██╗    ██╗
- ██║╚══██╔══╝██╔════╝     ██║██╔══██╗██║    ██║
- ██║   ██║   ███████╗     ██║███████║██║ █╗ ██║
- ██║   ██║   ╚════██║██   ██║██╔══██║██║███╗██║
- ██║   ██║   ███████║╚█████╔╝██║  ██║╚███╔███╔╝
- ╚═╝   ╚═╝   ╚══════╝ ╚════╝ ╚═╝  ╚═╝ ╚══╝╚══╝  """ 
+   banner = r"""
+██████╗  ███████╗███████╗██████╗ ████████╗██╗   ██╗
+██╔══██╗ ██╔════╝██╔════╝██╔══██╗╚══██╔══╝██║   ██║
+██║  ███ █████╗  █████╗  ██████╔╝   ██║   ██║   ██║
+██║  ███ ██╔══╝  ██╔══╝  ██╔═══╝    ██║   ██║   ██║
+██║  ██  ███████╗███████╗██║        ██║   ╚██████╔╝
+██████   ╚══════╝╚══════╝╚═╝        ╚═╝    ╚═════╝ 
+"""
+
     print(Fore.GREEN + Style.BRIGHT + banner + Style.RESET_ALL)
-    print(hju + f" Script {pth}RealGoats bot {hju}Telegram")
-    print(mrh + f" FREE TO USE = Join us on {pth}@DEEPLCHAIN")
-    print(mrh + f" before start please '{hju}git pull{mrh}' to update bot")
-    log_line()
+
+    print(Fore.CYAN + f" Script by {Fore.LIGHTBLUE_EX}DeepTV{Style.RESET_ALL}")
+    print(Fore.MAGENTA + f" YouTube: {Fore.YELLOW}https://www.youtube.com/@DeepT.V{Style.RESET_ALL}")
+    print(Fore.MAGENTA + f" Telegram: {Fore.YELLOW}https://t.me/DeepTV12{Style.RESET_ALL}")
+    print(Fore.GREEN + f" Before you start, run {Fore.LIGHTRED_EX}'git pull'{Style.RESET_ALL} to update the bot\n")
 
 def _clear():
     os.system('cls' if os.name == 'nt' else 'clear')
