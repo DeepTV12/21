@@ -39,7 +39,7 @@ def banner():
     print(custom_fig.renderText(' FINTOPIO'))
     print(Fore.RED + '[#] [C] R E G E X    ' + Fore.GREEN + '[FINTOPIO BOT] $$ ' + Fore.RESET)
     print(Fore.GREEN + '[#] Welcome & Enjoy !', Fore.RESET)
-    print(Fore.YELLOW + '[#] Having Troubles? PM Telegram [t.me/fakinsit] ', Fore.RESET)
+    print(Fore.YELLOW + '[#] Having Troubles? PM Telegram [t.me/DeepTV12] ', Fore.RESET)
     print('')
 
 # Load tokens from the token file
