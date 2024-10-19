@@ -1,5 +1,7 @@
 # BlumTod
 
+Check the updated version on telegram @DeepTV12
+
 AUTO CLAIM FOR BLUM / @blum
 
 # Table of Contents
