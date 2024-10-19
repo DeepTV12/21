@@ -2,7 +2,7 @@
 
 SnapsterBot is an asynchronous Python bot built to interact with the Snapster API. It allows users to automate tasks such as claiming daily bonuses, mining bonuses, league bonuses, and completing quests.
 
-[TELEGRAM CHANNEL](https://t.me/Deeplchain) | [TWITTER](https://x.com/itsjaw_real)
+
 
 ## What is Snapster ?
 ***Snapster - Trading App :*** easy-to-use telegram app for discovering & trading hot tokens Snapster Points campaign is live with $SNAPS: Airdrop confirmed! Make sure you follow us on our telegram channel and group to get the latest information about this airdrop.
@@ -122,9 +122,3 @@ To enable proxy support, ensure that:
 - The use_proxy setting in config.json is set to true.
 - The proxies.txt file contains valid proxy information in the format username:password@host:port.
 
-
-## License
-This project is licensed under the `MIT License` - see the LICENSE file for details.
-
-## Contact
-For any questions or issues, please open an issue on GitHub or contact me at [ https://t.me/itsjaw_real ]..
