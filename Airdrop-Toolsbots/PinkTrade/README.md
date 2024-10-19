@@ -3,9 +3,7 @@ Pinktrade Bot
 
 support my github channel 
 
-Register Here : [Pinktrade Bot](https://t.me/pinktrade_bot/pink?startapp=ybvoj6)
 
-Join to My Telegram Group : [S4NSGroup](https://t.me/sansxgroup)
 
 
 ## Tutorial
