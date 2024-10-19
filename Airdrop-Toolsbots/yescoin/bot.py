@@ -9,16 +9,21 @@ init(autoreset=True)
 
 
 def print_welcome_message():
-    print(r"""
-          
-█▀▀ █░█ ▄▀█ █░░ █ █▄▄ █ █▀▀
-█▄█ █▀█ █▀█ █▄▄ █ █▄█ █ ██▄
-          """)
-    print(Fore.GREEN + Style.BRIGHT + "YesCoin (Gold) BOT")
-    print(Fore.GREEN + Style.BRIGHT + "Update Link: https://github.com/adearman/yescoin")
-    print(Fore.YELLOW + Style.BRIGHT + "Free Konsultasi Join Telegram Channel: https://t.me/ghalibie")
-    print(Fore.BLUE + Style.BRIGHT + "Buy me a coffee :) 0823 2367 3487 GOPAY / DANA")
-    print(Fore.RED + Style.BRIGHT + "NOT FOR SALE ! Ngotak dikit bang. Ngoding susah2 kau tinggal rename :)\n\n")
+    banner = r"""
+██████╗  ███████╗███████╗██████╗ ████████╗██╗   ██╗
+██╔══██╗ ██╔════╝██╔════╝██╔══██╗╚══██╔══╝██║   ██║
+██║  ███ █████╗  █████╗  ██████╔╝   ██║   ██║   ██║
+██║  ███ ██╔══╝  ██╔══╝  ██╔═══╝    ██║   ██║   ██║
+██║  ██  ███████╗███████╗██║        ██║   ╚██████╔╝
+██████   ╚══════╝╚══════╝╚═╝        ╚═╝    ╚═════╝ 
+"""
+
+    print(Fore.GREEN + Style.BRIGHT + banner + Style.RESET_ALL)
+
+    print(Fore.CYAN + f" Script by {Fore.LIGHTBLUE_EX}DeepTV{Style.RESET_ALL}")
+    print(Fore.MAGENTA + f" YouTube: {Fore.YELLOW}https://www.youtube.com/@DeepT.V{Style.RESET_ALL}")
+    print(Fore.MAGENTA + f" Telegram: {Fore.YELLOW}https://t.me/DeepTV12{Style.RESET_ALL}")
+    print(Fore.GREEN + f" Before you start, run {Fore.LIGHTRED_EX}'git pull'{Style.RESET_ALL} to update the bot\n")
 
 # Load tokens from file
 def load_tokens(file_path):
