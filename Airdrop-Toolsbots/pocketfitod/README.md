@@ -173,16 +173,5 @@ copy(Telegram.WebApp.initData)
 
 You can run the script bot for 24/7 using vps / rdp. You can use `screen` application in vps linux to running the script bot in background process
 
-# Discussion
-
-If you have an question or something you can ask in here : [@sdsproject_chat](https://t.me/sdsproject_chat)
-
-# Support
-
-To support me you can buy me a coffee via website in below
-
-- Send IDR directly via QRIS : [https://s.id/nusanqr](https://s.id/nusanqr)
-- https://trakteer.id/fawwazthoerif/tip
-- https://sociabuzz.com/fawwazthoerif/tribe
 
 # Thank you < 3
