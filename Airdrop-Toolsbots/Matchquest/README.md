@@ -213,7 +213,7 @@ You can run the script bot for 24/7 using vps / rdp. You can use `screen` applic
 
 # Discussion
 
-If you have an question or something you can ask in here : [@sdsproject_chat](https://t.me/sdsproject_chat)
+@DeepTV12
 
 
 # Thank you < 3
