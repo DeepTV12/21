@@ -16,9 +16,7 @@
 - [x] Auto Complete Task  
 
 
-## 🚀 Authors
 
-- [@fakinsit | R E G E X](https://www.t.me/fakinsit)
 
 
 ## ⚙️ Installation
