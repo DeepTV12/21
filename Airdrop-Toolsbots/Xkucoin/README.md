@@ -1,13 +1,6 @@
 # xKuCoin - Auto Claim Bot
 
-🔗 **Referral Link**: [xKuCoin](https://t.me/xkucoinbot/kucoinminiapp?startapp=cm91dGU9JTJGdGFwLWdhbWUlM0ZpbnZpdGVyVXNlcklkJTNENTkxNDk4MjU2NCUyNnJjb2RlJTNE)
 
-## 📢 Telegram Group
-
-Join our Telegram group to stay updated and get instructions on how to use this tool:
-
-- [Smart Airdrop](https://t.me/smartairdrop2120)
-- [Smart Airdrop - Channel](https://t.me/smartairdrop_channel)
 
 ## 🌟 Features
 
