@@ -5,8 +5,7 @@ tmux new-session -d -s mysession
 
 tmux split-window -v
 
-tmux select-pane -t 0
-tmux send-keys 'cd a && python b.py' C-m
+
 
 tmux select-pane -t 1
 tmux send-keys 'cd TONxDAO && python bot.py' C-m
